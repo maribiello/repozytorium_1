@@ -1,3 +1,1 @@
-# pierwsze_repo
-
-tiruriri
+MOJE REPOZYTORIUM
